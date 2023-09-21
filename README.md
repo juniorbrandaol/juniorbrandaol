@@ -35,5 +35,5 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 #### Telefone 55-83-99818-4302
 
 # Github alternativo para desenvolvimento em JavaScript
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juniorbrandaol/juniorbrandaol)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junior-brandao)
 
