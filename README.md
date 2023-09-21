@@ -33,3 +33,7 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorbrandao/)
 #### Telefone 55-83-99818-4302
+
+# Github alternativo para desenvolvimento em JavaScript
+[![Java](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+
