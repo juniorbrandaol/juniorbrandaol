@@ -1,6 +1,6 @@
-## Olá, me chamo Edilson Brandão, sou casado, tenho dois filhos, um pet(Tell), sou Paraibano e tenho formação em Análise e Desenvolvimento de Sistemas. ⚡ 
-
-### :brazil:  :portugal:  :es: :canada:
+## Olá, me chamo Edilson Brandão, sou casado, tenho dois filhos, um pet(Tell), sou Paraibano e tenho formação em Análise e Desenvolvimento de Sistemas. :brazil:  :portugal:  :es: :canada:  ⚡ 
+ 
+### 
 
 Atuo na área de Desenvolvimento de Sistemas.
 Sou um constante aprendiz, fascinado em tecnologias e novos conhecimentos, e é um prazer recebê-lo aqui no meu perfil.
