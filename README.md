@@ -1,5 +1,7 @@
 ## Olá, me chamo Edilson Brandão, sou casado, tenho dois filhos, um pet(Tell), sou Paraibano e tenho formação em Análise e Desenvolvimento de Sistemas. ⚡ 
 
+### :brazil:  :portugal:  :es: :canada:
+
 Atuo na área de Desenvolvimento de Sistemas.
 Sou um constante aprendiz, fascinado em tecnologias e novos conhecimentos, e é um prazer recebê-lo aqui no meu perfil.
 Possuo mais de 4 anos de experiência na área de desenvolvimento de software, conhecimentos em Java, JavaScript, Node.js, API Rest e Spring boot. Tenho também vasto conhecimento em Git, CI/CD, Arquitetura de Micro-serviços, MVC, principais padrões de projeto, Metodologia Ágil (Scrum), Mysql, arquitetura voltada a eventos e outros. 
@@ -29,11 +31,11 @@ Minha abordagem no trabalho é guiada pelo companheirismo, resiliência, flexibi
 
  >  `Sou comunicativo, resiliente, companheiro, pontual, flexível e não desisto nunca`  🖖
 
-## E-mail: <edilson_brandaojunior@hotmail.com>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniorbrandaol&hide_progress=false&layout=compact)
 
+## E-mail: <edilson_brandaojunior@hotmail.com>
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniorbrandao/)
 #### Telefone 55-83-99818-4302
 
-# Github alternativo para desenvolvimento em JavaScript
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/junior-brandao)
+
 
